@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fff9f0"/>
+      <stop offset="100%" stop-color="#eef6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="860" fill="url(#bg2)"/>
+  <rect x="55" y="55" width="1290" height="150" rx="30" fill="url(#bg2)" stroke="#cfe6ff" stroke-width="4"/>
+  <text x="90" y="118" font-size="46" font-family="Segoe UI, Arial" font-weight="700" fill="#162338">Data Input Studio</text>
+  <text x="90" y="163" font-size="23" font-family="Segoe UI, Arial" fill="#40556f">Structured files, unstructured invoice text, and manual entry feed the dashboard.</text>
+  <rect x="90" y="255" width="270" height="68" rx="34" fill="#1f61d4"/>
+  <rect x="378" y="255" width="290" height="68" rx="34" fill="#ffffff" stroke="#d7e8ff"/>
+  <rect x="686" y="255" width="260" height="68" rx="34" fill="#ffffff" stroke="#d7e8ff"/>
+  <text x="142" y="298" font-size="28" font-family="Segoe UI, Arial" font-weight="700" fill="#ffffff">Structured File</text>
+  <text x="430" y="298" font-size="28" font-family="Segoe UI, Arial" fill="#162338">Unstructured Text</text>
+  <text x="742" y="298" font-size="28" font-family="Segoe UI, Arial" fill="#162338">Manual Entry</text>
+  <rect x="90" y="360" width="1220" height="410" rx="26" fill="#ffffff" stroke="#cae7ff"/>
+  <text x="125" y="420" font-size="36" font-family="Segoe UI, Arial" font-weight="700" fill="#162338">Unstructured Input</text>
+  <rect x="125" y="455" width="1150" height="180" rx="18" fill="#f7fbff" stroke="#ddeeff"/>
+  <text x="155" y="505" font-size="24" font-family="Consolas, monospace" fill="#334861">Invoice ID: INV-2002</text>
+  <text x="155" y="540" font-size="24" font-family="Consolas, monospace" fill="#334861">Date: 2026-04-05</text>
+  <text x="155" y="575" font-size="24" font-family="Consolas, monospace" fill="#334861">Total: 60000 | Paid: 30000 | Balance: 30000 | Status: Partial Payment</text>
+  <rect x="125" y="665" width="310" height="66" rx="18" fill="#f5f8fc" stroke="#cae7ff"/>
+  <text x="170" y="707" font-size="27" font-family="Segoe UI, Arial" font-weight="700" fill="#0b2240">Analyze Input</text>
+</svg>

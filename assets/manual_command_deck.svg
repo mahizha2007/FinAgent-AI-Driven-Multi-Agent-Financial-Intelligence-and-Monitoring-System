@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1100" viewBox="0 0 800 1100">
+  <defs>
+    <linearGradient id="side" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#17395a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1100" fill="url(#side)"/>
+  <text x="55" y="90" font-size="54" font-family="Segoe UI, Arial" font-weight="700" fill="#fff7ef">Command Deck</text>
+  <rect x="55" y="130" width="690" height="130" rx="28" fill="rgba(255,255,255,0.10)" stroke="rgba(191,219,254,0.3)"/>
+  <text x="95" y="190" font-size="38" font-family="Segoe UI, Arial" font-weight="700" fill="#ffffff">Default Finance</text>
+  <text x="95" y="228" font-size="24" font-family="Segoe UI, Arial" fill="#dbeafe">admin | Admin</text>
+  <text x="55" y="340" font-size="30" font-family="Segoe UI, Arial" font-weight="700" fill="#dbeafe">NAVIGATION</text>
+  <rect x="55" y="375" width="690" height="88" rx="20" fill="#f5f8fc"/>
+  <rect x="55" y="485" width="690" height="88" rx="20" fill="#f5f8fc"/>
+  <text x="95" y="432" font-size="36" font-family="Segoe UI, Arial" fill="#0b2240">Dashboard</text>
+  <text x="95" y="542" font-size="36" font-family="Segoe UI, Arial" fill="#0b2240">Logs</text>
+  <text x="55" y="655" font-size="30" font-family="Segoe UI, Arial" font-weight="700" fill="#dbeafe">ACTIONS</text>
+  <rect x="55" y="690" width="690" height="88" rx="20" fill="#f5f8fc"/>
+  <rect x="55" y="800" width="690" height="88" rx="20" fill="#f5f8fc"/>
+  <text x="95" y="747" font-size="36" font-family="Segoe UI, Arial" fill="#0b2240">Refresh</text>
+  <text x="95" y="857" font-size="36" font-family="Segoe UI, Arial" fill="#0b2240">Logout</text>
+  <text x="55" y="970" font-size="30" font-family="Segoe UI, Arial" font-weight="700" fill="#dbeafe">ALERTS</text>
+  <rect x="55" y="1005" width="690" height="60" rx="18" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.10)"/>
+  <text x="95" y="1045" font-size="28" font-family="Segoe UI, Arial" fill="#fff4e3">Email Alert Settings</text>
+</svg>

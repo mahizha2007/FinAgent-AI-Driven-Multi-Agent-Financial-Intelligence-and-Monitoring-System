@@ -1,0 +1,735 @@
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1001 | 0.283", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1002 | 0.174", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1003 | 0.123", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1004 | 0.091", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1005 | 0.049", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1006 | 0.032", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1007 | 0.036", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1008 | 0.037", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1009 | 0.026", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1010 | 0.027", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1011 | 0.010", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1012 | 0.001", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1013 | 0.022", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1014 | 0.039", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1015 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1016 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1017 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1018 | 0.024", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1019 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1020 | 0.059", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1021 | 0.056", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1022 | 0.073", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "ALERT", "message": "TXN-1023 | 0.551", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1024 | 0.708", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1025 | 0.167", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1026 | 0.203", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:07", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1027 | 0.323", "level": "INFO"}
+{"timestamp": "2026-04-04T14:36:22", "user": "system", "action": "ui_error", "message": "{\"error\": \"'<=' not supported between instances of 'datetime.date' and 'float'\"}", "level": "ERROR"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1001 | 0.283", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1002 | 0.174", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1003 | 0.123", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1004 | 0.091", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1005 | 0.049", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1006 | 0.032", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1007 | 0.036", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1008 | 0.037", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1009 | 0.026", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1010 | 0.027", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1011 | 0.010", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1012 | 0.001", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1013 | 0.022", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1014 | 0.039", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1015 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1016 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1017 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1018 | 0.024", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1019 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1020 | 0.059", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:03", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1021 | 0.056", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:03", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1022 | 0.073", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:03", "user": "RationalAgentEngine", "action": "ALERT", "message": "TXN-1023 | 0.551", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:03", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1024 | 0.708", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:03", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1025 | 0.167", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:03", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1026 | 0.203", "level": "INFO"}
+{"timestamp": "2026-04-04T14:43:03", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1027 | 0.323", "level": "INFO"}
+{"timestamp": "2026-04-04T14:44:37", "user": "user", "action": "chat_input", "message": "{\"message\": \"xirr\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T14:44:37", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Insight: The illustrative XIRR is 18.97%.\\n\\nReason: The calculation uses irregular cash-flow dates and a numerical XIRR solver implemented inside the project.\\n\\nRecommendation: Use this as a return benchmark when comparing investment timing efficiency across scenarios.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:19", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1001 | 0.283", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:19", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1002 | 0.174", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:19", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1003 | 0.123", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1004 | 0.091", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1005 | 0.049", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1006 | 0.032", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1007 | 0.036", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1008 | 0.037", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1009 | 0.026", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1010 | 0.027", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1011 | 0.010", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1012 | 0.001", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1013 | 0.022", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1014 | 0.039", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1015 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1016 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1017 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1018 | 0.024", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1019 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1020 | 0.059", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1021 | 0.056", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1022 | 0.073", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "ALERT", "message": "TXN-1023 | 0.551", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1024 | 0.708", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1025 | 0.167", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1026 | 0.203", "level": "INFO"}
+{"timestamp": "2026-04-04T14:47:20", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1027 | 0.323", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1001 | 0.283", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1002 | 0.174", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1003 | 0.123", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1004 | 0.091", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1005 | 0.049", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1006 | 0.032", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1007 | 0.036", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1008 | 0.037", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1009 | 0.026", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1010 | 0.027", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1011 | 0.010", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1012 | 0.001", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1013 | 0.022", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1014 | 0.039", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1015 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1016 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1017 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1018 | 0.024", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1019 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1020 | 0.059", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:01", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1021 | 0.056", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1022 | 0.073", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:02", "user": "RationalAgentEngine", "action": "ALERT", "message": "TXN-1023 | 0.551", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:02", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1024 | 0.708", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1025 | 0.167", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1026 | 0.203", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:02", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1027 | 0.323", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:59", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1001 | 0.283", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1002 | 0.174", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:59", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1003 | 0.123", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1004 | 0.091", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1005 | 0.049", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1006 | 0.032", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:59", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1007 | 0.036", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1008 | 0.037", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1009 | 0.026", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:59", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1010 | 0.027", "level": "INFO"}
+{"timestamp": "2026-04-04T14:57:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1011 | 0.010", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1012 | 0.001", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1013 | 0.022", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1014 | 0.039", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1015 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1016 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1017 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1018 | 0.024", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1019 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1020 | 0.059", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1021 | 0.056", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1022 | 0.073", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "ALERT", "message": "TXN-1023 | 0.551", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1024 | 0.708", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1025 | 0.167", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1026 | 0.203", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:00", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1027 | 0.323", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:33", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1001 | 0.283", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:33", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1002 | 0.174", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:33", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1003 | 0.123", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:33", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1004 | 0.091", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:33", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1005 | 0.049", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1006 | 0.032", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1007 | 0.036", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1008 | 0.037", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1009 | 0.026", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1010 | 0.027", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1011 | 0.010", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1012 | 0.001", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1013 | 0.022", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1014 | 0.039", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1015 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1016 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1017 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1018 | 0.024", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1019 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1020 | 0.059", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1021 | 0.056", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1022 | 0.073", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "ALERT", "message": "TXN-1023 | 0.551", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1024 | 0.708", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1025 | 0.167", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1026 | 0.203", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1027 | 0.323", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "user", "action": "chat_input", "message": "{\"message\": \"hi\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:34", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'xirr'.\\n\\nInsight: I can answer questions about anomaly detection, risk, forecasts, scenario impacts, uploaded data, and XIRR.\\n\\nReason: The assistant uses the current system context plus recent chat memory instead of generic fallback text.\\n\\nRecommendation: Try asking 'What is the latest risk level?', 'Show anomalies', or 'What if revenue drops 20%?'.\", \"action\": \"fallback\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1001 | 0.283", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1002 | 0.174", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1003 | 0.123", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1004 | 0.091", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1005 | 0.049", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1006 | 0.032", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1007 | 0.036", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1008 | 0.037", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1009 | 0.026", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1010 | 0.027", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1011 | 0.010", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1012 | 0.001", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1013 | 0.022", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1014 | 0.039", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1015 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1016 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1017 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1018 | 0.024", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1019 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1020 | 0.059", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1021 | 0.056", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1022 | 0.073", "level": "INFO"}
+{"timestamp": "2026-04-04T14:58:59", "user": "RationalAgentEngine", "action": "ALERT", "message": "TXN-1023 | 0.551", "level": "INFO"}
+{"timestamp": "2026-04-04T14:59:00", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1024 | 0.708", "level": "INFO"}
+{"timestamp": "2026-04-04T14:59:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1025 | 0.167", "level": "INFO"}
+{"timestamp": "2026-04-04T14:59:00", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1026 | 0.203", "level": "INFO"}
+{"timestamp": "2026-04-04T14:59:00", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1027 | 0.323", "level": "INFO"}
+{"timestamp": "2026-04-04T14:59:35", "user": "admin", "action": "shared_input_saved", "message": "Manual entry at 2026-04-04T14:59:34", "level": "INFO"}
+{"timestamp": "2026-04-04T14:59:40", "user": "admin", "action": "manual_input_error", "message": "{\"error\": \"Dataframe has less than 2 non-NaN rows.\"}", "level": "ERROR"}
+{"timestamp": "2026-04-04T14:59:48", "user": "admin", "action": "shared_input_saved", "message": "Manual entry at 2026-04-04T14:59:48", "level": "INFO"}
+{"timestamp": "2026-04-04T14:59:49", "user": "admin", "action": "manual_input_error", "message": "{\"error\": \"Dataframe has less than 2 non-NaN rows.\"}", "level": "ERROR"}
+{"timestamp": "2026-04-04T15:00:07", "user": "system", "action": "ui_error", "message": "{\"error\": \"Dataframe has less than 2 non-NaN rows.\"}", "level": "ERROR"}
+{"timestamp": "2026-04-04T15:16:07", "user": "RationalAgentEngine", "action": "IGNORE", "message": "MANUAL-001 | 0.000", "level": "INFO"}
+{"timestamp": "2026-04-04T15:16:51", "user": "admin", "action": "shared_input_saved", "message": "Manual entry at 2026-04-04T15:16:51", "level": "INFO"}
+{"timestamp": "2026-04-04T15:16:56", "user": "RationalAgentEngine", "action": "IGNORE", "message": "MANUAL-001 | 0.000", "level": "INFO"}
+{"timestamp": "2026-04-04T15:16:56", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Manual entry\", \"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:17:04", "user": "RationalAgentEngine", "action": "IGNORE", "message": "MANUAL-001 | 0.000", "level": "INFO"}
+{"timestamp": "2026-04-04T15:17:04", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-04T15:17:25", "user": "admin", "action": "stress_test", "message": "{\"revenue_drop\": 20, \"expense_increase\": 10}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:17:32", "user": "user", "action": "chat_input", "message": "{\"message\": \"hi\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:17:32", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'hi'.\\n\\nInsight: I can answer questions about anomaly detection, risk, forecasts, scenario impacts, uploaded data, and XIRR.\\n\\nReason: The assistant uses the current system context plus recent chat memory instead of generic fallback text.\\n\\nRecommendation: Try asking 'What is the latest risk level?', 'Show anomalies', or 'What if revenue drops 20%?'.\", \"action\": \"fallback\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:17:53", "user": "admin", "action": "shared_input_saved", "message": "Manual entry at 2026-04-04T15:17:53", "level": "INFO"}
+{"timestamp": "2026-04-04T15:17:55", "user": "RationalAgentEngine", "action": "IGNORE", "message": "MANUAL-001 | 0.000", "level": "INFO"}
+{"timestamp": "2026-04-04T15:17:55", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Manual entry\", \"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:18:02", "user": "RationalAgentEngine", "action": "IGNORE", "message": "MANUAL-001 | 0.000", "level": "INFO"}
+{"timestamp": "2026-04-04T15:18:02", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:03", "user": "admin", "action": "shared_input_cleared", "message": "Shared dataset reset to default", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:03", "user": "admin", "action": "reset_context", "message": "{\"message\": \"Restored default dataset\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:26", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1001 | 0.283", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:26", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1002 | 0.174", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:26", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1003 | 0.123", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:26", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1004 | 0.091", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:26", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1005 | 0.049", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:26", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1006 | 0.032", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:26", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1007 | 0.036", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:26", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1008 | 0.037", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:26", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1009 | 0.026", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1010 | 0.027", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1011 | 0.010", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1012 | 0.001", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1013 | 0.022", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1014 | 0.039", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1015 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1016 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1017 | 0.034", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1018 | 0.024", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1019 | 0.038", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1020 | 0.059", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1021 | 0.056", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1022 | 0.073", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "ALERT", "message": "TXN-1023 | 0.551", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1024 | 0.708", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1025 | 0.167", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1026 | 0.203", "level": "INFO"}
+{"timestamp": "2026-04-04T15:20:27", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1027 | 0.323", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1001 | 0.567", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1002 | 0.478", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1003 | 0.401", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1004 | 0.299", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1005 | 0.283", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1006 | 0.158", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1007 | 0.230", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1008 | 0.180", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1009 | 0.167", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1010 | 0.139", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1011 | 0.131", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1012 | 0.127", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1013 | 0.157", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1014 | 0.146", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:21", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1015 | 0.141", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:22", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1016 | 0.139", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:22", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1017 | 0.177", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:22", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1018 | 0.206", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:22", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1019 | 0.210", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:22", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1020 | 0.208", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:22", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1021 | 0.238", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:22", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1022 | 0.294", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:22", "user": "RationalAgentEngine", "action": "ALERT", "message": "TXN-1023 | 0.699", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:22", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-1024 | 0.590", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:22", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1025 | 0.215", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:22", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1026 | 0.262", "level": "INFO"}
+{"timestamp": "2026-04-04T15:23:22", "user": "RationalAgentEngine", "action": "IGNORE", "message": "TXN-1027 | 0.366", "level": "INFO"}
+{"timestamp": "2026-04-04T15:24:45", "user": "admin", "action": "shared_input_saved", "message": "Manual entry at 2026-04-04T15:24:45", "level": "INFO"}
+{"timestamp": "2026-04-04T15:24:47", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.871", "level": "INFO"}
+{"timestamp": "2026-04-04T15:24:47", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Manual entry\", \"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:24:59", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.871", "level": "INFO"}
+{"timestamp": "2026-04-04T15:24:59", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-04T15:25:48", "user": "admin", "action": "shared_input_saved", "message": "Manual entry at 2026-04-04T15:25:48", "level": "INFO"}
+{"timestamp": "2026-04-04T15:25:53", "user": "admin", "action": "shared_input_saved", "message": "Manual entry at 2026-04-04T15:25:53", "level": "INFO"}
+{"timestamp": "2026-04-04T15:25:56", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "MANUAL-001 | 0.764", "level": "INFO"}
+{"timestamp": "2026-04-04T15:26:00", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "MANUAL-001 | 0.764", "level": "INFO"}
+{"timestamp": "2026-04-04T15:26:00", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Manual entry\", \"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:26:22", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "MANUAL-001 | 0.764", "level": "INFO"}
+{"timestamp": "2026-04-04T15:26:22", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-04T15:26:56", "user": "admin", "action": "shared_input_saved", "message": "Unstructured text at 2026-04-04T15:26:56", "level": "INFO"}
+{"timestamp": "2026-04-04T15:27:02", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-4001 | 0.573", "level": "INFO"}
+{"timestamp": "2026-04-04T15:27:02", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Unstructured text\", \"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:27:22", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-4001 | 0.573", "level": "INFO"}
+{"timestamp": "2026-04-04T15:27:22", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-04T15:44:57", "user": "RationalAgentEngine", "action": "ASK_USER", "message": "TXN-4001 | 0.573", "level": "INFO"}
+{"timestamp": "2026-04-04T15:47:28", "user": "user", "action": "chat_input", "message": "{\"message\": \"What is the latest decision?\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:47:28", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'hi'.\\n\\nInsight: The latest decision is ASK_USER with confidence 0.16.\\n\\nReason: Anomaly score contributed 0.57.\\nBayesian risk probability was 0.01.\\nForecast risk was 0.01 and stress risk was 0.00.\\nHistorical anomaly frequency was 0.02.\\nCounterfactual financial impact was 750.\\nConsensus confidence was 0.18.\\n\\nRecommendation: Keep under observation and revisit if trend deterioration continues.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:51:43", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "TXN-4001 | 0.573", "level": "INFO"}
+{"timestamp": "2026-04-04T15:54:23", "user": "admin", "action": "shared_input_saved", "message": "Manual entry at 2026-04-04T15:54:23", "level": "INFO"}
+{"timestamp": "2026-04-04T15:54:40", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "MANUAL-002 | 0.771", "level": "INFO"}
+{"timestamp": "2026-04-04T15:54:40", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Manual entry\", \"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:54:40", "user": "admin", "action": "manual_input_error", "message": "{\"error\": \"\\\"['decision'] not in index\\\"\"}", "level": "ERROR"}
+{"timestamp": "2026-04-04T15:54:58", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "MANUAL-002 | 0.771", "level": "INFO"}
+{"timestamp": "2026-04-04T15:54:59", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-04T15:55:37", "user": "admin", "action": "shared_input_saved", "message": "Manual entry at 2026-04-04T15:55:37", "level": "INFO"}
+{"timestamp": "2026-04-04T15:55:43", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.912", "level": "INFO"}
+{"timestamp": "2026-04-04T15:55:43", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Manual entry\", \"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-04T15:55:43", "user": "admin", "action": "manual_input_error", "message": "{\"error\": \"\\\"['decision'] not in index\\\"\"}", "level": "ERROR"}
+{"timestamp": "2026-04-04T15:55:52", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.912", "level": "INFO"}
+{"timestamp": "2026-04-04T15:55:52", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-04T16:02:21", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.912", "level": "INFO"}
+{"timestamp": "2026-04-04T16:03:09", "user": "admin", "action": "stress_test_builtin", "message": "{\"name\": \"Severe Downturn\", \"revenue_drop_pct\": 0.25, \"expense_increase_pct\": 0.12}", "level": "INFO"}
+{"timestamp": "2026-04-04T16:09:59", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.912", "level": "INFO"}
+{"timestamp": "2026-04-04T21:56:23+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.912", "level": "INFO"}
+{"timestamp": "2026-04-04T21:56:23+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-002 | score=0.91 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-04T21:57:12+05:30", "user": "admin", "action": "download_master_draft_pdf", "message": "{\"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-04T21:57:21+05:30", "user": "admin", "action": "download_master_draft_csv", "message": "{\"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-04T21:57:37+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"hi\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T21:57:37+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'What is the latest decision?'.\\n\\nStatus: I can answer questions about anomaly detection, risk, forecasts, scenario impacts, uploaded data, and XIRR.\\n\\nWhy: The assistant uses the current system context plus recent chat memory instead of generic fallback text.\\n\\nDo This: Try asking 'What is the latest decision?', 'What is the risk probability?', or 'Create the master draft'.\", \"action\": \"fallback\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T21:57:37+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"hi\", \"style\": \"Operator\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T21:57:37+05:30", "user": "system", "action": "ui_error", "message": "{\"error\": \"`st.session_state.dock_prompt_input` cannot be modified after the widget with key `dock_prompt_input` is instantiated.\"}", "level": "ERROR"}
+{"timestamp": "2026-04-04T21:57:59+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"transaction_id\": \"MANUAL-002\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-04T21:57:59+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T22:05:43+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"transaction_id\": \"MANUAL-002\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-04T22:05:43+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T22:05:59+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"hi\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T22:05:59+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'hi'.\\n\\nStatus: I can answer questions about anomaly detection, risk, forecasts, scenario impacts, uploaded data, and XIRR.\\n\\nWhy: The assistant uses the current system context plus recent chat memory instead of generic fallback text.\\n\\nDo This: Try asking 'What is the latest decision?', 'What is the risk probability?', or 'Create the master draft'.\", \"action\": \"fallback\"}", "level": "INFO"}
+{"timestamp": "2026-04-04T22:05:59+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"hi\", \"style\": \"Operator\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:09:43+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 1.000", "level": "INFO"}
+{"timestamp": "2026-04-05T08:09:43+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-002 | score=1.00 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T08:09:50+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"transaction_id\": \"MANUAL-002\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T08:09:50+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:11:05+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"What is the latest decision?\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:11:05+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'hi'.\\n\\nBoard View: The latest decision is ALERT with confidence 0.24.\\n\\nSignal: Anomaly score contributed 1.00.\\nBayesian risk probability was 0.05.\\nForecast risk was 0.32 and stress risk was 0.23.\\nHistorical anomaly frequency was 0.02.\\nCounterfactual financial impact was -114,922.\\nConsensus confidence was 0.00.\\n\\nAction: Escalate immediately, review root cause, and notify stakeholders.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:11:05+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"What is the latest decision?\", \"style\": \"Boardroom\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:11:31+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"who are you?\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:11:31+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'What is the latest decision?'.\\n\\nBoard View: I can answer questions about anomaly detection, risk, logs, forecasts, scenarios, training data, uploaded data, and XIRR.\\n\\nSignal: The assistant uses the live system context, decision outputs, and recent chat memory instead of generic fallback text.\\n\\nAction: Try asking 'How much training data do you use?', 'Show logs', 'What is the latest decision?', or 'Create the master draft'.\", \"action\": \"fallback\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:11:31+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"who are you?\", \"style\": \"Boardroom\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:23:52+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.938", "level": "INFO"}
+{"timestamp": "2026-04-05T08:23:52+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-002 | score=0.94 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T08:26:24+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"transaction_id\": \"MANUAL-002\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T08:26:24+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:27:01+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"Compare January revenue with March revenue\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:27:01+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'who are you?'.\\n\\nStatus: March revenue was 248,500 versus 235,500 in January.\\n\\nWhy: The interval delta is 13,000, based on 1 records for January and 1 records for March from the active comparison dataset.\\n\\nDo This: Open the Revenue Compare tab to inspect the same comparison visually and across other metrics.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:27:01+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"Compare January revenue with March revenue\", \"style\": \"Operator\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:27:27+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"hi\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:27:27+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'Compare January revenue with March revenue'.\\n\\nStatus: Financial Copilot is online and synced to the live dashboard context.\\n\\nWhy: I currently see the latest decision as ALERT, risk level HIGH, and anomaly score 0.94.\\n\\nDo This: Ask about decisions, risk probability, logs, forecasts, scenarios, or the training dataset.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:27:27+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"hi\", \"style\": \"Operator\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:27:49+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"How much training data do you use?\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:27:49+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'hi'.\\n\\nBoard View: The anomaly models are currently trained on about 294 historical rows.\\n\\nSignal: The active training source is data\\\\expanded_training_financial_data.csv, merged with the baseline financial history before model fitting.\\n\\nAction: Keep adding clean financial history to strengthen seasonality learning and anomaly separation.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:27:49+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"How much training data do you use?\", \"style\": \"Boardroom\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:28:05+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"Who are you?\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:28:05+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'How much training data do you use?'.\\n\\nPulse: I am your financial decision copilot for this dashboard.\\n\\nDriver: I specialize in anomalies, risk, decisions, forecasts, scenarios, audit logs, and training-data awareness using the live context from this system.\\n\\nMove: Ask me to compare periods, explain a decision, review logs, or summarize the current financial signal.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:28:05+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"Who are you?\", \"style\": \"Pulse\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:28:36+05:30", "user": "system", "action": "ui_error", "message": "{\"error\": \"The default `value` of [datetime.date(2025, 4, 1)] must lie between the `min_value` of 2025-04-02 and the `max_value` of 2026-04-04, inclusively.\"}", "level": "ERROR"}
+{"timestamp": "2026-04-05T08:34:20+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"transaction_id\": \"MANUAL-002\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T08:34:20+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:38:45+05:30", "user": "system", "action": "ui_error", "message": "{\"error\": \"The default `value` of [datetime.date(2025, 4, 1)] must lie between the `min_value` of 2025-04-02 and the `max_value` of 2026-04-04, inclusively.\"}", "level": "ERROR"}
+{"timestamp": "2026-04-05T08:49:33+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.938", "level": "INFO"}
+{"timestamp": "2026-04-05T08:49:33+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-002 | score=0.94 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T08:49:34+05:30", "user": "system", "action": "ui_error", "message": "{\"error\": \"'st.session_state has no key \\\"period_a_start\\\". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization'\"}", "level": "ERROR"}
+{"timestamp": "2026-04-05T08:49:44+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"transaction_id\": \"MANUAL-002\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T08:49:44+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:49:44+05:30", "user": "system", "action": "ui_error", "message": "{\"error\": \"'st.session_state has no key \\\"period_a_start\\\". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization'\"}", "level": "ERROR"}
+{"timestamp": "2026-04-05T08:53:53+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.938", "level": "INFO"}
+{"timestamp": "2026-04-05T08:53:53+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-002 | score=0.94 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T08:54:04+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"transaction_id\": \"MANUAL-002\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T08:54:04+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:55:37+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"hi\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:55:37+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'Who are you?'.\\n\\nStatus: Financial Copilot is online and synced to the live dashboard context.\\n\\nWhy: I currently see the latest decision as ALERT, risk level HIGH, and anomaly score 0.94.\\n\\nDo This: Ask about decisions, risk probability, logs, forecasts, scenarios, or the training dataset.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T08:55:37+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"hi\", \"style\": \"Operator\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T09:10:14+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.938", "level": "INFO"}
+{"timestamp": "2026-04-05T09:10:14+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-002 | score=0.94 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T09:10:30+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"transaction_id\": \"MANUAL-002\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T09:10:30+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T09:59:04+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.938", "level": "INFO"}
+{"timestamp": "2026-04-05T09:59:04+05:30", "user": "admin", "action": "task_created", "message": "ALERT review for MANUAL-002 | MANUAL-002", "level": "INFO"}
+{"timestamp": "2026-04-05T09:59:04+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:MANUAL-002 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-05T09:59:04+05:30", "user": "cfo", "action": "approval_created", "message": "decision:MANUAL-002 | CFO", "level": "INFO"}
+{"timestamp": "2026-04-05T09:59:04+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-002 | score=0.94 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T10:00:14+05:30", "user": "admin", "action": "logout", "message": "{\"message\": \"User signed out\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T10:01:22+05:30", "user": "jp", "action": "register", "message": "Local account created", "level": "INFO"}
+{"timestamp": "2026-04-05T10:01:32+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.938", "level": "INFO"}
+{"timestamp": "2026-04-05T10:01:33+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-002 | score=0.94 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T10:16:13+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T10:22:27+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T10:22:42+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T10:22:54+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.938", "level": "INFO"}
+{"timestamp": "2026-04-05T10:22:54+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-002 | score=0.94 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T10:24:49+05:30", "user": "admin", "action": "update_user_role", "message": "jp -> viewer", "level": "INFO"}
+{"timestamp": "2026-04-05T10:24:49+05:30", "user": "admin", "action": "set_user_active", "message": "jp -> active", "level": "INFO"}
+{"timestamp": "2026-04-05T10:26:40+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"transaction_id\": \"MANUAL-002\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T10:26:40+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T10:31:43+05:30", "user": "admin", "action": "approval_created", "message": "user_registration:viewer_test | Admin Approval", "level": "INFO"}
+{"timestamp": "2026-04-05T10:31:43+05:30", "user": "self-service", "action": "register_pending_approval", "message": "viewer_test requested access with role viewer", "level": "INFO"}
+{"timestamp": "2026-04-05T10:31:43+05:30", "user": "admin", "action": "user_registration_resolved", "message": "viewer_test -> APPROVED", "level": "INFO"}
+{"timestamp": "2026-04-05T10:31:43+05:30", "user": "viewer_test", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T10:40:34+05:30", "user": "admin", "action": "approval_created", "message": "user_registration:johnny | Admin Approval", "level": "INFO"}
+{"timestamp": "2026-04-05T10:40:34+05:30", "user": "self-service", "action": "register_pending_approval", "message": "johnny requested access with role viewer", "level": "INFO"}
+{"timestamp": "2026-04-05T10:40:44+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T10:40:56+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.938", "level": "INFO"}
+{"timestamp": "2026-04-05T10:40:56+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-002 | score=0.94 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T10:41:15+05:30", "user": "admin", "action": "user_registration_resolved", "message": "johnny -> APPROVED", "level": "INFO"}
+{"timestamp": "2026-04-05T10:41:30+05:30", "user": "johnny", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T10:41:59+05:30", "user": "admin", "action": "update_user_role", "message": "johnny -> viewer", "level": "INFO"}
+{"timestamp": "2026-04-05T10:41:59+05:30", "user": "admin", "action": "set_user_active", "message": "johnny -> inactive", "level": "INFO"}
+{"timestamp": "2026-04-05T10:42:29+05:30", "user": "admin", "action": "update_user_role", "message": "johnny -> viewer", "level": "INFO"}
+{"timestamp": "2026-04-05T10:42:29+05:30", "user": "admin", "action": "set_user_active", "message": "johnny -> active", "level": "INFO"}
+{"timestamp": "2026-04-05T10:42:31+05:30", "user": "johnny", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T10:43:30+05:30", "user": "admin", "action": "logout", "message": "{\"message\": \"User signed out\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T10:43:39+05:30", "user": "johnny", "action": "login_failed", "message": "Invalid username or password.", "level": "INFO"}
+{"timestamp": "2026-04-05T10:43:42+05:30", "user": "johnny", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T10:43:43+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-002 | 0.938", "level": "INFO"}
+{"timestamp": "2026-04-05T10:43:44+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-002 | score=0.94 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T10:43:57+05:30", "user": "johnny", "action": "logout", "message": "{\"message\": \"User signed out\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T10:44:07+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T10:44:14+05:30", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-05T10:44:49+05:30", "user": "admin", "action": "update_user_role", "message": "admin -> admin", "level": "INFO"}
+{"timestamp": "2026-04-05T10:44:49+05:30", "user": "admin", "action": "set_user_active", "message": "admin -> active", "level": "INFO"}
+{"timestamp": "2026-04-05T10:45:31+05:30", "user": "admin", "action": "update_user_role", "message": "johnny -> viewer", "level": "INFO"}
+{"timestamp": "2026-04-05T10:45:31+05:30", "user": "admin", "action": "set_user_active", "message": "johnny -> active", "level": "INFO"}
+{"timestamp": "2026-04-05T10:45:45+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"transaction_id\": \"MANUAL-002\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T10:45:45+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T10:46:06+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T10:46:21+05:30", "user": "admin", "action": "shared_input_saved", "message": "Manual entry at 2026-04-05T10:46:21+05:30", "level": "INFO"}
+{"timestamp": "2026-04-05T10:46:34+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.915", "level": "INFO"}
+{"timestamp": "2026-04-05T10:46:34+05:30", "user": "system", "action": "task_created", "message": "ALERT review for MANUAL-001 | MANUAL-001", "level": "INFO"}
+{"timestamp": "2026-04-05T10:46:34+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:MANUAL-001 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-05T10:46:34+05:30", "user": "cfo", "action": "approval_created", "message": "decision:MANUAL-001 | CFO", "level": "INFO"}
+{"timestamp": "2026-04-05T10:46:34+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.92 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T10:46:34+05:30", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Manual entry\", \"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-05T10:46:34+05:30", "user": "admin", "action": "manual_input_error", "message": "{\"error\": \"\\\"['decision'] not in index\\\"\"}", "level": "ERROR"}
+{"timestamp": "2026-04-05T10:46:41+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.915", "level": "INFO"}
+{"timestamp": "2026-04-05T10:46:41+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.92 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T10:46:41+05:30", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-05T10:46:45+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"transaction_id\": \"MANUAL-001\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T10:46:45+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T10:47:19+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T10:47:50+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"transaction_id\": \"MANUAL-001\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T10:47:50+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T12:23:47+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T12:24:11+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.915", "level": "INFO"}
+{"timestamp": "2026-04-05T12:24:12+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.92 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T12:26:43+05:30", "user": "system", "action": "anomaly_recorded", "message": "TXN-A1 | score=0.91 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T12:26:43+05:30", "user": "system", "action": "anomaly_recorded", "message": "TXN-A2 | score=0.88 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T12:30:08+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T12:30:23+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T12:30:56+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.915", "level": "INFO"}
+{"timestamp": "2026-04-05T12:30:56+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.92 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T12:54:02+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"anomaly_id\": 1, \"transaction_id\": \"TXN-1023\", \"severity\": \"INFO\", \"acknowledged_at_ist\": \"2026-04-05T12:54:02+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T12:54:24+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"anomaly_id\": 12, \"transaction_id\": \"MANUAL-001\", \"severity\": \"INFO\", \"acknowledged_at_ist\": \"2026-04-05T12:54:24+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T12:54:27+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"anomaly_id\": 14, \"transaction_id\": \"MANUAL-002\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T12:54:27+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T12:54:30+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"anomaly_id\": 29, \"transaction_id\": \"MANUAL-001\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T12:54:30+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T12:55:24+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T12:58:24+05:30", "user": "admin", "action": "input_validation_failed", "message": "{\"source\": \"Invoice document: sample_invoices.pdf\", \"message\": \"Past/future record blocked\", \"today\": \"2026-04-05\"}", "level": "ERROR"}
+{"timestamp": "2026-04-05T13:00:40+05:30", "user": "admin", "action": "shared_input_saved", "message": "Invoice document: sample_invoices_today.pdf at 2026-04-05T13:00:40+05:30", "level": "INFO"}
+{"timestamp": "2026-04-05T13:01:10+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2002 | 0.884", "level": "INFO"}
+{"timestamp": "2026-04-05T13:01:10+05:30", "user": "system", "action": "task_created", "message": "ALERT review for INV-2002 | INV-2002", "level": "INFO"}
+{"timestamp": "2026-04-05T13:01:10+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:INV-2002 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-05T13:01:10+05:30", "user": "cfo", "action": "approval_created", "message": "decision:INV-2002 | CFO", "level": "INFO"}
+{"timestamp": "2026-04-05T13:01:10+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2002 | score=0.88 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T13:01:10+05:30", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Invoice document: sample_invoices_today.pdf\", \"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-05T13:01:10+05:30", "user": "admin", "action": "unstructured_input_error", "message": "{\"error\": \"\\\"['decision'] not in index\\\"\"}", "level": "ERROR"}
+{"timestamp": "2026-04-05T13:01:26+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2002 | 0.884", "level": "INFO"}
+{"timestamp": "2026-04-05T13:01:26+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2002 | score=0.88 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T13:01:26+05:30", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-05T13:06:44+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T13:07:24+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"anomaly_id\": 33, \"transaction_id\": \"INV-2002\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-05T13:07:24+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-05T13:07:32+05:30", "user": "admin", "action": "shared_input_saved", "message": "Invoice document: sample_invoices_today.pdf at 2026-04-05T13:07:32+05:30", "level": "INFO"}
+{"timestamp": "2026-04-05T13:07:35+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2002 | 0.884", "level": "INFO"}
+{"timestamp": "2026-04-05T13:07:35+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2002 | score=0.88 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T13:07:35+05:30", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Invoice document: sample_invoices_today.pdf\", \"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-05T13:07:35+05:30", "user": "admin", "action": "unstructured_input_error", "message": "{\"error\": \"\\\"['decision'] not in index\\\"\"}", "level": "ERROR"}
+{"timestamp": "2026-04-05T13:15:48+05:30", "user": "admin", "action": "shared_input_saved", "message": "Invoice document: sample_invoices_today.pdf at 2026-04-05T13:15:48+05:30", "level": "INFO"}
+{"timestamp": "2026-04-05T13:15:50+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2002 | 0.884", "level": "INFO"}
+{"timestamp": "2026-04-05T13:15:50+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2002 | score=0.88 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T13:15:50+05:30", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Invoice document: sample_invoices_today.pdf\", \"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-05T13:15:51+05:30", "user": "admin", "action": "unstructured_input_error", "message": "{\"error\": \"\\\"['decision'] not in index\\\"\"}", "level": "ERROR"}
+{"timestamp": "2026-04-05T13:17:34+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T13:17:39+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-05T13:18:07+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2002 | 0.884", "level": "INFO"}
+{"timestamp": "2026-04-05T13:18:08+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2002 | score=0.88 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T13:18:20+05:30", "user": "admin", "action": "shared_input_saved", "message": "Invoice document: sample_invoices_today.pdf at 2026-04-05T13:18:20+05:30", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:19+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2001 | 0.811", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:19+05:30", "user": "system", "action": "task_created", "message": "ALERT review for INV-2001 | INV-2001", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:19+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:INV-2001 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:19+05:30", "user": "cfo", "action": "approval_created", "message": "decision:INV-2001 | CFO", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:19+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2001 | score=0.81 | risk=MEDIUM | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:19+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2002 | 0.837", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:19+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2003 | 0.920", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:19+05:30", "user": "system", "action": "task_created", "message": "INVESTIGATE review for INV-2003 | INV-2003", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:19+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:INV-2003 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:19+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2004 | 0.889", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:19+05:30", "user": "system", "action": "task_created", "message": "INVESTIGATE review for INV-2004 | INV-2004", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:19+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:INV-2004 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:20+05:30", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Invoice document: sample_invoices_today.pdf\", \"rows\": 4}", "level": "INFO"}
+{"timestamp": "2026-04-05T13:19:20+05:30", "user": "admin", "action": "unstructured_input_error", "message": "{\"error\": \"\\\"['decision'] not in index\\\"\"}", "level": "ERROR"}
+{"timestamp": "2026-04-05T13:20:23+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2001 | 0.811", "level": "INFO"}
+{"timestamp": "2026-04-05T13:20:23+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2001 | score=0.81 | risk=MEDIUM | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-05T13:20:23+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2002 | 0.837", "level": "INFO"}
+{"timestamp": "2026-04-05T13:20:23+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2003 | 0.920", "level": "INFO"}
+{"timestamp": "2026-04-05T13:20:23+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2004 | 0.889", "level": "INFO"}
+{"timestamp": "2026-04-05T13:20:24+05:30", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-05T13:34:09+05:30", "user": "admin", "action": "logout", "message": "{\"message\": \"User signed out\"}", "level": "INFO"}
+{"timestamp": "2026-04-06T11:02:00+05:30", "user": "admin", "action": "login_failed", "message": "Invalid username or password.", "level": "INFO"}
+{"timestamp": "2026-04-06T11:02:04+05:30", "user": "admin", "action": "login_failed", "message": "Invalid username or password.", "level": "INFO"}
+{"timestamp": "2026-04-06T11:02:15+05:30", "user": "admin", "action": "login_failed", "message": "Invalid username or password.", "level": "INFO"}
+{"timestamp": "2026-04-06T11:02:21+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-06T11:02:37+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-06T11:02:48+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2001 | 0.811", "level": "INFO"}
+{"timestamp": "2026-04-06T11:02:48+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2001 | score=0.81 | risk=MEDIUM | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-06T11:02:48+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2002 | 0.837", "level": "INFO"}
+{"timestamp": "2026-04-06T11:02:48+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2003 | 0.920", "level": "INFO"}
+{"timestamp": "2026-04-06T11:02:48+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2004 | 0.889", "level": "INFO"}
+{"timestamp": "2026-04-06T12:41:46+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-06T12:42:22+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-06T12:42:27+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2001 | 0.811", "level": "INFO"}
+{"timestamp": "2026-04-06T12:42:27+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2001 | score=0.81 | risk=MEDIUM | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-06T12:42:27+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2002 | 0.837", "level": "INFO"}
+{"timestamp": "2026-04-06T12:42:27+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2003 | 0.920", "level": "INFO"}
+{"timestamp": "2026-04-06T12:42:27+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2004 | 0.889", "level": "INFO"}
+{"timestamp": "2026-04-06T12:43:46+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"anomaly_id\": 38, \"transaction_id\": \"INV-2001\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-06T12:43:46+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-06T12:44:29+05:30", "user": "admin", "action": "update_user_role", "message": "johnny -> viewer", "level": "INFO"}
+{"timestamp": "2026-04-06T12:44:29+05:30", "user": "admin", "action": "set_user_active", "message": "johnny -> active", "level": "INFO"}
+{"timestamp": "2026-04-06T12:44:50+05:30", "user": "johnny", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-06T12:45:11+05:30", "user": "admin", "action": "logout", "message": "{\"message\": \"User signed out\"}", "level": "INFO"}
+{"timestamp": "2026-04-06T12:45:21+05:30", "user": "johnny", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-06T12:45:47+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2001 | 0.811", "level": "INFO"}
+{"timestamp": "2026-04-06T12:45:47+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2001 | score=0.81 | risk=MEDIUM | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-06T12:45:47+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2002 | 0.837", "level": "INFO"}
+{"timestamp": "2026-04-06T12:45:47+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2003 | 0.920", "level": "INFO"}
+{"timestamp": "2026-04-06T12:45:47+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2004 | 0.889", "level": "INFO"}
+{"timestamp": "2026-04-06T12:46:13+05:30", "user": "johnny", "action": "logout", "message": "{\"message\": \"User signed out\"}", "level": "INFO"}
+{"timestamp": "2026-04-06T12:46:52+05:30", "user": "admin", "action": "approval_created", "message": "user_registration:Daksh | Admin Approval", "level": "INFO"}
+{"timestamp": "2026-04-06T12:46:52+05:30", "user": "self-service", "action": "register_pending_approval", "message": "Daksh requested access with role viewer", "level": "INFO"}
+{"timestamp": "2026-04-06T12:47:02+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-06T12:47:16+05:30", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-06T12:47:33+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-06T12:48:22+05:30", "user": "admin", "action": "approval_created", "message": "user_registration:ABC | Admin Approval", "level": "INFO"}
+{"timestamp": "2026-04-06T12:48:22+05:30", "user": "self-service", "action": "register_pending_approval", "message": "ABC requested access with role viewer", "level": "INFO"}
+{"timestamp": "2026-04-06T12:48:31+05:30", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-06T12:48:47+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-06T12:49:27+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"hi\"}", "level": "INFO"}
+{"timestamp": "2026-04-06T12:49:27+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'hi'.\\n\\nPulse: Financial Copilot is online and synced to the live dashboard context.\\n\\nDriver: I currently see the latest decision as INVESTIGATE, risk level MEDIUM, and anomaly score 0.89.\\n\\nMove: Ask about decisions, risk probability, logs, forecasts, scenarios, or the training dataset.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-06T12:49:27+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"hi\", \"style\": \"Pulse\"}", "level": "INFO"}
+{"timestamp": "2026-04-06T12:50:09+05:30", "user": "admin", "action": "download_master_draft_pdf", "message": "{\"rows\": 4}", "level": "INFO"}
+{"timestamp": "2026-04-06T12:50:59+05:30", "user": "admin", "action": "logout", "message": "{\"message\": \"User signed out\"}", "level": "INFO"}
+{"timestamp": "2026-04-10T15:26:54+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-10T15:28:00+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-10T15:28:10+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2001 | 0.811", "level": "INFO"}
+{"timestamp": "2026-04-10T15:28:10+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2001 | score=0.81 | risk=MEDIUM | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-10T15:28:10+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2002 | 0.837", "level": "INFO"}
+{"timestamp": "2026-04-10T15:28:10+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2003 | 0.920", "level": "INFO"}
+{"timestamp": "2026-04-10T15:28:10+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2004 | 0.889", "level": "INFO"}
+{"timestamp": "2026-04-10T15:33:45+05:30", "user": "admin", "action": "user_registration_resolved", "message": "ABC -> APPROVED", "level": "INFO"}
+{"timestamp": "2026-04-10T15:33:58+05:30", "user": "admin", "action": "update_user_role", "message": "ABC -> viewer", "level": "INFO"}
+{"timestamp": "2026-04-10T15:33:58+05:30", "user": "admin", "action": "set_user_active", "message": "ABC -> active", "level": "INFO"}
+{"timestamp": "2026-04-10T15:34:10+05:30", "user": "admin", "action": "user_registration_resolved", "message": "Daksh -> APPROVED", "level": "INFO"}
+{"timestamp": "2026-04-10T15:51:51+05:30", "user": "johnny", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-10T15:52:40+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"Who are you?\"}", "level": "INFO"}
+{"timestamp": "2026-04-10T15:52:40+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'hi'.\\n\\nPulse: I am your financial decision copilot for this dashboard.\\n\\nDriver: I specialize in anomalies, risk, decisions, forecasts, scenarios, audit logs, and training-data awareness using the live context from this system.\\n\\nMove: Ask me to compare periods, explain a decision, review logs, or summarize the current financial signal.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-10T15:52:40+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"Who are you?\", \"style\": \"Pulse\"}", "level": "INFO"}
+{"timestamp": "2026-04-10T15:53:34+05:30", "user": "admin", "action": "download_master_draft_pdf", "message": "{\"rows\": 4}", "level": "INFO"}
+{"timestamp": "2026-04-10T16:08:36+05:30", "user": "johnny", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-10T16:09:03+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2001 | 0.811", "level": "INFO"}
+{"timestamp": "2026-04-10T16:09:03+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2001 | score=0.81 | risk=MEDIUM | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-10T16:09:03+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2002 | 0.837", "level": "INFO"}
+{"timestamp": "2026-04-10T16:09:03+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2003 | 0.920", "level": "INFO"}
+{"timestamp": "2026-04-10T16:09:03+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2004 | 0.889", "level": "INFO"}
+{"timestamp": "2026-04-10T16:09:19+05:30", "user": "johnny", "action": "alert_acknowledged", "message": "{\"anomaly_id\": 38, \"transaction_id\": \"INV-2001\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-10T16:09:19+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-10T16:09:40+05:30", "user": "johnny", "action": "logout", "message": "{\"message\": \"User signed out\"}", "level": "INFO"}
+{"timestamp": "2026-04-10T16:09:50+05:30", "user": "admin", "action": "login_failed", "message": "Invalid username or password.", "level": "INFO"}
+{"timestamp": "2026-04-10T16:09:54+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-10T16:10:45+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"Who are you?\"}", "level": "INFO"}
+{"timestamp": "2026-04-10T16:10:45+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'Who are you?'.\\n\\nPulse: I am your financial decision copilot for this dashboard.\\n\\nDriver: I specialize in anomalies, risk, decisions, forecasts, scenarios, audit logs, and training-data awareness using the live context from this system.\\n\\nMove: Ask me to compare periods, explain a decision, review logs, or summarize the current financial signal.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-10T16:10:45+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"Who are you?\", \"style\": \"Pulse\"}", "level": "INFO"}
+{"timestamp": "2026-04-10T16:11:17+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"anomalies?\"}", "level": "INFO"}
+{"timestamp": "2026-04-10T16:11:17+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'Who are you?'.\\n\\nBoard View: I can answer questions about anomaly detection, risk, logs, forecasts, scenarios, training data, uploaded data, and XIRR.\\n\\nSignal: The assistant uses the live system context, decision outputs, and recent chat memory instead of generic fallback text.\\n\\nAction: Try asking 'How much training data do you use?', 'Show logs', 'What is the latest decision?', or 'Create the master draft'.\", \"action\": \"fallback\"}", "level": "INFO"}
+{"timestamp": "2026-04-10T16:11:17+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"anomalies?\", \"style\": \"Boardroom\"}", "level": "INFO"}
+{"timestamp": "2026-04-10T16:11:38+05:30", "user": "admin", "action": "download_master_draft_pdf", "message": "{\"rows\": 4}", "level": "INFO"}
+{"timestamp": "2026-04-10T16:11:51+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-10T16:22:26+05:30", "user": "admin", "action": "logout", "message": "{\"message\": \"User signed out\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T11:13:33+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T11:13:46+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T11:14:16+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2001 | 0.811", "level": "INFO"}
+{"timestamp": "2026-04-14T11:14:16+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2001 | score=0.81 | risk=MEDIUM | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-14T11:14:16+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2002 | 0.837", "level": "INFO"}
+{"timestamp": "2026-04-14T11:14:16+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2003 | 0.920", "level": "INFO"}
+{"timestamp": "2026-04-14T11:14:16+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2004 | 0.889", "level": "INFO"}
+{"timestamp": "2026-04-14T11:15:06+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"what is revenue?\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T11:15:06+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Previous context: you recently asked about 'anomalies?'.\\n\\nStatus: Revenue is the incoming business value recognized from transactions or invoices.\\n\\nWhy: I used the metric name in your question to switch into an explanation-style answer instead of a reporting-style answer.\\n\\nDo This: Ask for the latest value too if you want both the definition and the current reading.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T11:15:06+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"what is revenue?\", \"style\": \"Operator\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T11:30:50+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T11:31:01+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T11:31:26+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2001 | 0.811", "level": "INFO"}
+{"timestamp": "2026-04-14T11:31:26+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2001 | score=0.81 | risk=MEDIUM | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-14T11:31:26+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2002 | 0.837", "level": "INFO"}
+{"timestamp": "2026-04-14T11:31:26+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2003 | 0.920", "level": "INFO"}
+{"timestamp": "2026-04-14T11:31:26+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2004 | 0.889", "level": "INFO"}
+{"timestamp": "2026-04-14T11:31:58+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"What is the latest decision?\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T11:31:58+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"The latest decision is INVESTIGATE with confidence 0.18. Anomaly score contributed 0.89.\\nBayesian risk probability was 0.02.\\nForecast risk was 0.20 and stress risk was 0.00.\\nHistorical anomaly frequency was 0.02.\\nCounterfactual financial impact was 53,415.\\nConsensus confidence was 0.00. Keep under observation and revisit if trend deterioration continues.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T11:31:58+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"What is the latest decision?\", \"style\": \"Operator\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T11:33:55+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T11:34:18+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "INV-2001 | 0.811", "level": "INFO"}
+{"timestamp": "2026-04-14T11:34:18+05:30", "user": "system", "action": "anomaly_recorded", "message": "INV-2001 | score=0.81 | risk=MEDIUM | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-14T11:34:18+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2002 | 0.837", "level": "INFO"}
+{"timestamp": "2026-04-14T11:34:18+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2003 | 0.920", "level": "INFO"}
+{"timestamp": "2026-04-14T11:34:18+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "INV-2004 | 0.889", "level": "INFO"}
+{"timestamp": "2026-04-14T11:46:46+05:30", "user": "system", "action": "mysql_sync_check", "message": "{\"message\": \"event logger mirrored to mysql\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T11:49:15+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T11:50:47+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T11:52:15+05:30", "user": "admin", "action": "shared_input_saved", "message": "Manual entry at 2026-04-14T11:52:15+05:30", "level": "INFO"}
+{"timestamp": "2026-04-14T11:52:24+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.856", "level": "INFO"}
+{"timestamp": "2026-04-14T11:52:24+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.86 | risk=MEDIUM | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-14T11:52:24+05:30", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Manual entry\", \"rows\": 1}", "level": "INFO"}
+{"timestamp": "2026-04-14T11:52:24+05:30", "user": "admin", "action": "manual_input_error", "message": "{\"error\": \"\\\"['decision'] not in index\\\"\"}", "level": "ERROR"}
+{"timestamp": "2026-04-14T11:52:49+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.856", "level": "INFO"}
+{"timestamp": "2026-04-14T11:52:49+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.86 | risk=MEDIUM | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-14T11:52:49+05:30", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-14T12:15:06+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T12:15:09+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"anomaly_id\": 48, \"transaction_id\": \"MANUAL-001\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-14T12:15:09+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:15:20+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"Who are you?\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:15:20+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"I am your financial decision copilot for this dashboard. I specialize in anomalies, risk, decisions, forecasts, scenarios, audit logs, and training-data awareness using the live context from this system. Ask me to compare periods, explain a decision, review logs, or summarize the current financial signal.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:15:20+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"Who are you?\", \"style\": \"Operator\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:15:56+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"can i reinvest the profit in my company ?\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:15:56+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"Latest profit is 3,750 with margin 93.75%. That combines the latest revenue and expense values already processed by the monitoring pipeline. Ask for a period comparison if you want to see whether profit is improving or deteriorating over time.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:15:56+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"can i reinvest the profit in my company ?\", \"style\": \"Operator\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:17:40+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T12:25:34+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:25:34+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T12:25:38+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.340", "level": "INFO"}
+{"timestamp": "2026-04-14T12:25:38+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.34 | risk=LOW | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-14T12:26:17+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": false, \"message\": \"Invalid username or password.\", \"remote_addr\": \"streamlit-session\"}", "level": "WARNING"}
+{"timestamp": "2026-04-14T12:26:17+05:30", "user": "admin", "action": "login_failed", "message": "Invalid username or password.", "level": "INFO"}
+{"timestamp": "2026-04-14T12:26:20+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:26:20+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T12:37:20+05:30", "user": "user", "action": "chat_input", "message": "{\"message\": \"Show logs\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:37:20+05:30", "user": "assistant", "action": "chat_response", "message": "{\"message\": \"The full audit trail is available in the Logs panel. You can filter by date and action type, view the full log history, and export the filtered logs as PDF or CSV. Open the Logs panel for detailed traceability after uploads, alerts, downloads, and chatbot actions.\", \"action\": \"function\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:37:20+05:30", "user": "admin", "action": "chat_prompt", "message": "{\"prompt\": \"Show logs\", \"style\": \"Operator\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:54:07+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": false, \"message\": \"Invalid username or password.\", \"remote_addr\": \"streamlit-session\"}", "level": "WARNING"}
+{"timestamp": "2026-04-14T12:54:07+05:30", "user": "admin", "action": "login_failed", "message": "Invalid username or password.", "level": "INFO"}
+{"timestamp": "2026-04-14T12:54:16+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T12:54:16+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T12:54:19+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.340", "level": "INFO"}
+{"timestamp": "2026-04-14T12:54:19+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.34 | risk=LOW | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-14T13:03:58+05:30", "user": "admin", "action": "stress_test_builtin", "message": "{\"name\": \"Extreme Liquidity Stress\", \"revenue_drop_pct\": 0.3, \"expense_increase_pct\": 0.18}", "level": "INFO"}
+{"timestamp": "2026-04-14T13:16:10+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T13:16:10+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T13:16:13+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.340", "level": "INFO"}
+{"timestamp": "2026-04-14T13:16:13+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.34 | risk=LOW | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-14T13:17:55+05:30", "user": "admin", "action": "download_manual_pdf", "message": "{\"lines\": 95}", "level": "INFO"}
+{"timestamp": "2026-04-14T13:18:42+05:30", "user": "admin", "action": "logout", "message": "{\"message\": \"User signed out\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T13:18:55+05:30", "user": "johnny", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-14T13:18:55+05:30", "user": "johnny", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-14T13:18:57+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.340", "level": "INFO"}
+{"timestamp": "2026-04-14T13:18:57+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.34 | risk=LOW | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-14T13:19:05+05:30", "user": "johnny", "action": "download_manual_pdf", "message": "{\"lines\": 95}", "level": "INFO"}
+{"timestamp": "2026-04-14T13:19:43+05:30", "user": "johnny", "action": "logout", "message": "{\"message\": \"User signed out\"}", "level": "INFO"}
+{"timestamp": "2026-04-17T15:35:31+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-17T15:35:31+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-17T15:35:40+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-17T15:35:40+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-17T15:36:06+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.340", "level": "INFO"}
+{"timestamp": "2026-04-17T15:36:06+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.34 | risk=LOW | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-25T11:55:18+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-25T11:55:18+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-25T11:55:27+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-25T11:55:27+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-25T11:55:31+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.340", "level": "INFO"}
+{"timestamp": "2026-04-25T11:55:31+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.34 | risk=LOW | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-25T11:55:55+05:30", "user": "admin", "action": "download_technical_manual_pdf", "message": "{\"lines\": 233}", "level": "INFO"}
+{"timestamp": "2026-04-25T12:12:30+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-25T12:12:30+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-25T12:12:55+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "MANUAL-001 | 0.340", "level": "INFO"}
+{"timestamp": "2026-04-25T12:12:55+05:30", "user": "system", "action": "anomaly_recorded", "message": "MANUAL-001 | score=0.34 | risk=LOW | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-25T12:13:08+05:30", "user": "admin", "action": "download_technical_manual_pdf", "message": "{\"lines\": 244}", "level": "INFO"}
+{"timestamp": "2026-04-25T12:17:06+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-25T12:17:06+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-25T12:17:38+05:30", "user": "admin", "action": "shared_input_saved", "message": "Structured file: structured_input_template_2026-04-25.csv at 2026-04-25T12:17:38+05:30", "level": "INFO"}
+{"timestamp": "2026-04-25T12:17:51+05:30", "user": "admin", "action": "structured_input_error", "message": "{\"error\": \"Cannot convert [['PAID' 'PARTIALLY_PAID' 'PAID' 'UNPAID' 'PAID']] to numeric\"}", "level": "ERROR"}
+{"timestamp": "2026-04-25T12:20:27+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:27+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:34+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:34+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:50+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-001 | 0.704", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:50+05:30", "user": "admin", "action": "task_created", "message": "INVESTIGATE review for CSV-250425-001 | CSV-250425-001", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:50+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-002 | 0.810", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "admin", "action": "task_created", "message": "INVESTIGATE review for CSV-250425-002 | CSV-250425-002", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:CSV-250425-002 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "RationalAgentEngine", "action": "ALERT", "message": "CSV-250425-003 | 0.715", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "admin", "action": "task_created", "message": "ALERT review for CSV-250425-003 | CSV-250425-003", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:CSV-250425-003 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "cfo", "action": "approval_created", "message": "decision:CSV-250425-003 | CFO", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "system", "action": "anomaly_recorded", "message": "CSV-250425-003 | score=0.72 | risk=HIGH | decision=ALERT", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-004 | 0.924", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "admin", "action": "task_created", "message": "INVESTIGATE review for CSV-250425-004 | CSV-250425-004", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:CSV-250425-004 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-005 | 0.760", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "admin", "action": "task_created", "message": "INVESTIGATE review for CSV-250425-005 | CSV-250425-005", "level": "INFO"}
+{"timestamp": "2026-04-25T12:20:51+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:CSV-250425-005 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-25T12:22:07+05:30", "user": "admin", "action": "input_validation_failed", "message": "{\"source\": \"Structured file: structured_input_template_2026-04-25.csv\", \"message\": \"Shared dataset duplicate IDs: CSV-250425-001, CSV-250425-002, CSV-250425-003, CSV-250425-004, CSV-250425-005\"}", "level": "ERROR"}
+{"timestamp": "2026-04-25T12:25:20+05:30", "user": "admin", "action": "input_validation_failed", "message": "{\"source\": \"Structured file: structured_input_template_2026-04-25.csv\", \"message\": \"Shared dataset duplicate IDs: CSV-250425-001, CSV-250425-002, CSV-250425-003, CSV-250425-004, CSV-250425-005\"}", "level": "ERROR"}
+{"timestamp": "2026-04-25T12:27:21+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:21+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:33+05:30", "user": "admin", "action": "shared_input_saved", "message": "Structured file: structured_input_test_records_2026-04-25.csv at 2026-04-25T12:27:33+05:30", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-101 | 0.714", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "system", "action": "task_created", "message": "INVESTIGATE review for CSV-250425-101 | CSV-250425-101", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-102 | 0.796", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "system", "action": "task_created", "message": "INVESTIGATE review for CSV-250425-102 | CSV-250425-102", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:CSV-250425-102 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-103 | 0.709", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "system", "action": "task_created", "message": "INVESTIGATE review for CSV-250425-103 | CSV-250425-103", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-104 | 0.900", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "system", "action": "task_created", "message": "INVESTIGATE review for CSV-250425-104 | CSV-250425-104", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:CSV-250425-104 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-105 | 0.742", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "system", "action": "task_created", "message": "INVESTIGATE review for CSV-250425-105 | CSV-250425-105", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "finance_manager", "action": "approval_created", "message": "decision:CSV-250425-105 | Finance Manager", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:47+05:30", "user": "admin", "action": "input_analyzed", "message": "{\"source\": \"Structured file: structured_input_test_records_2026-04-25.csv\", \"rows\": 5}", "level": "INFO"}
+{"timestamp": "2026-04-25T12:27:48+05:30", "user": "admin", "action": "structured_input_error", "message": "{\"error\": \"\\\"['decision'] not in index\\\"\"}", "level": "ERROR"}
+{"timestamp": "2026-04-25T12:28:59+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-101 | 0.714", "level": "INFO"}
+{"timestamp": "2026-04-25T12:28:59+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-102 | 0.796", "level": "INFO"}
+{"timestamp": "2026-04-25T12:28:59+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-103 | 0.709", "level": "INFO"}
+{"timestamp": "2026-04-25T12:28:59+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-104 | 0.856", "level": "INFO"}
+{"timestamp": "2026-04-25T12:28:59+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-105 | 0.742", "level": "INFO"}
+{"timestamp": "2026-04-25T12:28:59+05:30", "user": "admin", "action": "refresh_context", "message": "Dashboard refreshed from shared input state", "level": "INFO"}
+{"timestamp": "2026-04-25T12:29:02+05:30", "user": "admin", "action": "alert_acknowledged", "message": "{\"anomaly_id\": 57, \"transaction_id\": \"CSV-250425-003\", \"severity\": \"CRITICAL\", \"acknowledged_at_ist\": \"2026-04-25T12:29:02+05:30\"}", "level": "INFO"}
+{"timestamp": "2026-04-25T12:41:12+05:30", "user": "system", "action": "mysql_training_sync", "message": "Mirrored 296 baseline training rows into MySQL.", "level": "INFO"}
+{"timestamp": "2026-04-25T12:42:53+05:30", "user": "system", "action": "mysql_training_sync", "message": "Mirrored 296 baseline training rows into MySQL.", "level": "INFO"}
+{"timestamp": "2026-04-25T12:54:03+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-25T12:54:03+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-25T12:54:22+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-101 | 0.724", "level": "INFO"}
+{"timestamp": "2026-04-25T12:54:22+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-102 | 0.816", "level": "INFO"}
+{"timestamp": "2026-04-25T12:54:22+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-103 | 0.715", "level": "INFO"}
+{"timestamp": "2026-04-25T12:54:22+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-104 | 0.864", "level": "INFO"}
+{"timestamp": "2026-04-25T12:54:22+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-105 | 0.752", "level": "INFO"}
+{"timestamp": "2026-04-25T13:05:15+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-25T13:05:15+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-25T13:05:37+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-101 | 0.724", "level": "INFO"}
+{"timestamp": "2026-04-25T13:05:37+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-102 | 0.816", "level": "INFO"}
+{"timestamp": "2026-04-25T13:05:37+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-103 | 0.715", "level": "INFO"}
+{"timestamp": "2026-04-25T13:05:37+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-104 | 0.864", "level": "INFO"}
+{"timestamp": "2026-04-25T13:05:37+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-105 | 0.752", "level": "INFO"}
+{"timestamp": "2026-04-25T14:45:56+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-25T14:45:56+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-25T14:46:15+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-101 | 0.724", "level": "INFO"}
+{"timestamp": "2026-04-25T14:46:15+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-102 | 0.816", "level": "INFO"}
+{"timestamp": "2026-04-25T14:46:15+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-103 | 0.715", "level": "INFO"}
+{"timestamp": "2026-04-25T14:46:15+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-104 | 0.864", "level": "INFO"}
+{"timestamp": "2026-04-25T14:46:15+05:30", "user": "RationalAgentEngine", "action": "INVESTIGATE", "message": "CSV-250425-105 | 0.752", "level": "INFO"}
+{"timestamp": "2026-04-25T14:48:32+05:30", "user": "admin", "action": "download_technical_manual_pdf", "message": "{\"lines\": 258}", "level": "INFO"}
+{"timestamp": "2026-04-25T15:17:25+05:30", "user": "admin", "action": "login_attempt", "message": "{\"success\": true, \"message\": \"Login successful.\", \"remote_addr\": \"streamlit-session\"}", "level": "INFO"}
+{"timestamp": "2026-04-25T15:17:25+05:30", "user": "admin", "action": "login", "message": "Authenticated successfully", "level": "INFO"}
+{"timestamp": "2026-04-25T15:17:26+05:30", "user": "system", "action": "ui_error", "message": "{\"error\": \"ReportingService.build_manual_pdf() got an unexpected keyword argument 'technical'\"}", "level": "ERROR"}
+{"timestamp": "2026-04-25T15:18:35+05:30", "user": "admin", "action": "logout", "message": "{\"message\": \"User signed out\"}", "level": "INFO"}

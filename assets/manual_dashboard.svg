@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fff8ef"/>
+      <stop offset="100%" stop-color="#eef6ff"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" x2="1">
+      <stop offset="0%" stop-color="#10213c"/>
+      <stop offset="50%" stop-color="#2155d6"/>
+      <stop offset="100%" stop-color="#18b8a7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="860" fill="url(#bg)"/>
+  <rect x="40" y="40" width="1320" height="150" rx="32" fill="url(#hero)"/>
+  <text x="85" y="105" font-size="44" font-family="Segoe UI, Arial" font-weight="700" fill="#fff8ef">Financial Command Center</text>
+  <text x="85" y="150" font-size="22" font-family="Segoe UI, Arial" fill="#dfeafb">Executive monitoring, forecasts, explainability, decisions, and alerts.</text>
+  <rect x="72" y="215" width="220" height="42" rx="21" fill="#dff2ff"/>
+  <text x="95" y="243" font-size="22" font-family="Segoe UI, Arial" font-weight="600" fill="#11507f">Live shared dataset</text>
+  <rect x="72" y="290" width="290" height="160" rx="24" fill="#ffffff" stroke="#cae7ff"/>
+  <rect x="390" y="290" width="290" height="160" rx="24" fill="#ffffff" stroke="#cae7ff"/>
+  <rect x="708" y="290" width="290" height="160" rx="24" fill="#ffffff" stroke="#cae7ff"/>
+  <rect x="1026" y="290" width="290" height="160" rx="24" fill="#ffffff" stroke="#cae7ff"/>
+  <text x="105" y="340" font-size="24" font-family="Segoe UI, Arial" fill="#27415d">Latest Revenue</text>
+  <text x="105" y="405" font-size="58" font-family="Segoe UI, Arial" fill="#10213c">250,000</text>
+  <text x="425" y="340" font-size="24" font-family="Segoe UI, Arial" fill="#27415d">Latest Expenses</text>
+  <text x="425" y="405" font-size="58" font-family="Segoe UI, Arial" fill="#10213c">145,000</text>
+  <text x="744" y="340" font-size="24" font-family="Segoe UI, Arial" fill="#27415d">Anomaly Score</text>
+  <text x="744" y="405" font-size="58" font-family="Segoe UI, Arial" fill="#10213c">0.31</text>
+  <text x="1058" y="340" font-size="24" font-family="Segoe UI, Arial" fill="#27415d">Risk Level</text>
+  <text x="1058" y="405" font-size="58" font-family="Segoe UI, Arial" fill="#10213c">LOW</text>
+  <rect x="72" y="495" width="610" height="285" rx="26" fill="#ffffff" stroke="#cae7ff"/>
+  <rect x="705" y="495" width="610" height="285" rx="26" fill="#ffffff" stroke="#cae7ff"/>
+  <text x="100" y="545" font-size="34" font-family="Segoe UI, Arial" font-weight="700" fill="#162338">Anomaly Timeline</text>
+  <text x="735" y="545" font-size="34" font-family="Segoe UI, Arial" font-weight="700" fill="#162338">Financial Trends</text>
+  <polyline points="120,735 220,680 320,700 420,610 520,620 630,570" fill="none" stroke="#d64c2f" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="120" cy="735" r="7" fill="#d64c2f"/>
+  <circle cx="220" cy="680" r="7" fill="#d64c2f"/>
+  <circle cx="320" cy="700" r="7" fill="#d64c2f"/>
+  <circle cx="420" cy="610" r="7" fill="#d64c2f"/>
+  <circle cx="520" cy="620" r="7" fill="#d64c2f"/>
+  <circle cx="630" cy="570" r="7" fill="#d64c2f"/>
+  <polyline points="742,710 830,690 920,645 1010,615 1100,575 1230,560" fill="none" stroke="#1c63b7" stroke-width="7" stroke-linecap="round"/>
+  <polyline points="742,740 830,730 920,710 1010,690 1100,675 1230,682" fill="none" stroke="#d64c2f" stroke-width="7" stroke-linecap="round"/>
+  <polyline points="742,770 830,760 920,725 1010,705 1100,662 1230,650" fill="none" stroke="#c7942f" stroke-width="7" stroke-linecap="round"/>
+</svg>

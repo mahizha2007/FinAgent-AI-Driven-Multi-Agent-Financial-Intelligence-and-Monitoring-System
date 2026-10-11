@@ -1,0 +1,13 @@
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.4.0
+torch>=2.2.0
+prophet>=1.1.5
+shap>=0.45.0
+streamlit>=1.33.0
+plotly>=5.20.0
+APScheduler>=3.10.4
+mysql-connector-python>=9.0.0
+networkx>=3.2.1
+reportlab>=4.2.0
+pypdf>=4.3.1
