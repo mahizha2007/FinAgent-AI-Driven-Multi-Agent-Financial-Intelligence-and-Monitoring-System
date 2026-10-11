@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Driven Multi-Agent Financial Monitoring System with Rational Agent Chatbot
 
 This project is a Python-only financial monitoring platform built with Streamlit, scikit-learn, PyTorch, Prophet, SHAP, and SQLite. It ingests financial data, engineers features, detects anomalies with a hybrid model, forecasts revenue and expenses, explains anomalies, simulates stress scenarios, computes XIRR, stores an audit trail, and exposes a rational-agent chatbot.
@@ -58,4 +57,3 @@ Tables:
 =======
 # FinAgent-AI-Driven-Multi-Agent-Financial-Intelligence-and-Monitoring-System
 FinSight AI is an intelligent, multi-agent financial monitoring platform that combines machine learning, anomaly detection, risk assessment, financial forecasting, and explainable AI to identify unusual financial patterns, evaluate risks, and deliver actionable insights through an interactive dashboard and AI-powered chatbot.
->>>>>>> 7bf691da0dc44672a981600267b9762c0201fa10
