@@ -1,0 +1,2 @@
+# FinAgent-AI-Driven-Multi-Agent-Financial-Intelligence-and-Monitoring-System
+FinSight AI is an intelligent, multi-agent financial monitoring platform that combines machine learning, anomaly detection, risk assessment, financial forecasting, and explainable AI to identify unusual financial patterns, evaluate risks, and deliver actionable insights through an interactive dashboard and AI-powered chatbot.
